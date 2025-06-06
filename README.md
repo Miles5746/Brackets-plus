@@ -8,4 +8,8 @@ Brackets Plus: Pretty straight forward. Generates the ) when you type ( but won'
 Brackets Pro: When you type (, it will wait for you to type a lower-case letter to ensure shift isn't being hold, and then completes the operation.
 
 Thank you for using this script, you are free to edit/reupload it how ever you like, as it isn't that big!
--Miles5746
+
+Please note that you will need to install pyautogui to allow python to type. This can easily be installed with "pip install pyautogui" - just run that in terminal.
+To run this script, in terminal CD into where ever you downloaded it (Example: cd /users/YOURNAMEHERE/downloads/) and then run it with python3 (You will need to figure out how to install that out), Or just run it in Python launcher.
+
+-Miles5746, Thank you for looking at this!
