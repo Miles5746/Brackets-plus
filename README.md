@@ -9,7 +9,13 @@ Brackets Pro: When you type (, it will wait for you to type a lower-case letter 
 
 Thank you for using this script, you are free to edit/reupload it how ever you like, as it isn't that big!
 
-Please note that you will need to install pyautogui to allow python to type. This can easily be installed with "pip install pyautogui" - just run that in terminal.
-To run this script, in terminal CD into where ever you downloaded it (Example: cd /users/YOURNAMEHERE/downloads/) and then run it with python3 (You will need to figure out how to install that out), Or just run it in Python launcher.
+This requires macOS, unless you find a way to do it on windows or linux, as the files are in python.
+How to run correctly:
+1. Open terminal (Cmd+space, then type terminal)
+2. Download or create a python with the script of your choice in it, and move it to documents.
+3. Download Homebrew (Unless you already have) at https://brew.sh/ and set it up.
+4. Type in terminal: Brew install python3 (Unless you already have python3 in terminal)
+5. Type in terminal: cd /user/yournamehere/documents/
+6. Type in terminal: python3 BracketsPlus (or BracketsPro if you got that)
 
 -Miles5746, Thank you for looking at this!
