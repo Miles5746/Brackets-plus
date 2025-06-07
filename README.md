@@ -5,9 +5,10 @@ This is my first every script on Github! The point of this is to make life a tin
 an error when making this, where it selects the second bracket, so I made two versions: Brackets Plus and Brackets Pro. 
 
 Brackets Plus: Pretty straight forward. Generates the ) when you type ( but won't move your cursor in between them.
-Brackets Pro: When you type (, it will wait for you to type a lower-case letter to ensure shift isn't being hold, and then completes the operation.
 
-Thank you for using this script, you are free to edit/reupload it how ever you like, as it isn't that big!
+Brackets Pro: When you type (, it will wait for you to type a lower-case letter to ensure shift isn't being hold, and then completes the operation. This can glitch out when you are typing to fast, so if you are fine with moving your cursor I would recommend Brackets Plus insteed.
+
+Please note that the first time you use this, it glitches and generates a 0 insteed of a ), but it is only the first time you run it.
 
 This requires macOS, unless you find a way to do it on windows or linux, as the files are in python.
 How to run correctly:
@@ -20,5 +21,7 @@ How to run correctly:
 7. Type in terminal: python3 BracketsPlus (or BracketsPro if you got that)
 8. It will be running now!
 9. To exit, go to terminal and press cntrl+c
+
+Thank you for using this script, you are free to edit/reupload it how ever you like, as it isn't that big!
 
 -Miles5746, Thank you for looking at this!
