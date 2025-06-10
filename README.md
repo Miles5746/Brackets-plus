@@ -16,11 +16,13 @@ How to run correctly:
 2. Download or create a python with the script of your choice in it, and move it to documents.
 3. Download Homebrew (Unless you already have) at https://brew.sh/ and set it up.
 4. Type in terminal: Brew install python3 (Unless you already have python3 in terminal)
-5. Type in terminal: pip3 install scapy
-6. Type in terminal: cd /user/yournamehere/documents/
-7. Type in terminal: python3 BracketsPlus (or BracketsPro if you got that)
-8. It will be running now!
-9. To exit, go to terminal and press cntrl+c
+5. Type in terminal: pip install pynput
+6. Type in terminal: pip install pyautogui
+7. Make sure terminal has accesibility (Settings > Privacy & Security > Accessibility > Add terminal with the + at the bottem of the list.)
+8. Type in terminal: cd /user/yournamehere/documents/
+9. Type in terminal: python3 BracketsPlus (or BracketsPro if you got that)
+10. It will be running now!
+11. To exit, go to terminal and press cntrl+c
 
 Thank you for using this script, you are free to edit/reupload it how ever you like, as it isn't that big!
 
